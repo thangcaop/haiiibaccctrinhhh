@@ -1,0 +1,34 @@
+{
+  "name": "haiiibaccctrinhhh",
+  "version": "1.0.9",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thangcaop/haiiibaccctrinhhh.git"
+  },
+  "dependencies": {
+    "phuongtrinh-bac2-thangcaop": "1.0.2",
+    "addd-subbbb-ngonnn": "1.0.5",
+    "trungbinhcong-khangan0837": "1.0.2",
+    "binhtrungcoooooonggg": "1.0.5",
+    "synnnn-thanhngoc44-sum": "1.0.4",
+    "binhphuong-bolognesedog26": "1.0.3",
+    "phuonggggbinhhhh":"1.0.6",
+    "chianguyen-moroccanbur":"1.0.2",
+    "nguyeeennnchiiaaaa":"1.0.7",
+    "chialayphhandu-thuyvi0641":"1.0.12"
+    },
+ "homepage": "https://github.com/thangcaop/haiiibaccctrinhhh",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "thangcaop",
+  "license": "MIT"
+}
